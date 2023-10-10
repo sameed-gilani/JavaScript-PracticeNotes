@@ -207,10 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "204a799c307dfecb",
+  "active": "19e90bdb6fbbca4b",
   "lastOpenFiles": [
-    "Day 01/5. This keyword.md",
+    "Day 02/2. Currying and Proxy.md",
+    "6. Array and its methods.md",
+    "5. Loops.md",
+    "4. Type Coercion.md",
+    "3. Data types.md",
     "Day 02/1. This.md",
+    "Day 01/5. This keyword.md",
+    "Day 01/1. How JS Works Behind the Scenes.md",
     "Day 02",
     "package-lock.json",
     "pratice.js",
@@ -218,7 +224,6 @@
     "Images/Pasted image 20231009152941.png",
     "Day 01/3. Hoisting - Variables & Functions.md",
     "Day 01/2. Var, Let & Const.md",
-    "Day 01/1. How JS Works Behind the Scenes.md",
     "Images/Pasted image 20231009153140.png",
     "Images/Pasted image 20231009124411.png",
     "Images",
