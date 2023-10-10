@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 02/6. Array and its methods.md",
+                "file": "Day 02/2. Currying and Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 02/6. Array and its methods.md",
+                "file": "Day 02/2. Currying and Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 02/6. Array and its methods.md",
+                "file": "Day 02/2. Currying and Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 02/6. Array and its methods.md"
+                "file": "Day 02/2. Currying and Proxy.md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "204a799c307dfecb",
   "lastOpenFiles": [
+    "Day 01/1. How JS Works Behind the Scenes.md",
     "Day 02/5. Loops.md",
     "Day 02/4. Type Coercion.md",
     "Day 02/3. Data types.md",
@@ -216,7 +217,6 @@
     "Day 02/1. This.md",
     "Day 02/6. Array and its methods.md",
     "Day 01/5. This keyword.md",
-    "Day 01/1. How JS Works Behind the Scenes.md",
     "Day 02",
     "package-lock.json",
     "pratice.js",
