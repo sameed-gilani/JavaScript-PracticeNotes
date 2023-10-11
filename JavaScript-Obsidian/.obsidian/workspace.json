@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Array Methods.md",
+                "file": "Day 03/1. Array Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Temporal Dead Zone.md",
+                "file": "Day 03/3. Temporal Dead Zone.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Closure.md",
+                "file": "Day 03/1. Array Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf5829faccb6026e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 03/5. Event Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Closure.md",
+                "file": "Day 03/1. Array Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Closure.md",
+                "file": "Day 03/1. Array Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Closure.md"
+                "file": "Day 03/1. Array Methods.md"
               }
             }
           }
@@ -191,14 +203,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "276eed81a5671cc9",
+  "active": "204a799c307dfecb",
   "lastOpenFiles": [
-    "3. Temporal Dead Zone.md",
-    "4. Closure.md",
+    "Day 03/4. Closure.md",
+    "Day 03/5. Event Loop.md",
+    "Day 03/1. Array Methods.md",
+    "Day 03/3. Temporal Dead Zone.md",
     "Day 01/3. Hoisting - Variables & Functions.md",
     "Day 01/2. Var, Let & Const.md",
-    "2. Scope Chain And Lexical Scope.md",
-    "1. Array Methods.md",
+    "Day 03/2. Scope Chain And Lexical Scope.md",
     "Day 03",
     "Day 02/4. Type Coercion.md",
     "Day 02/5. Loops.md",
