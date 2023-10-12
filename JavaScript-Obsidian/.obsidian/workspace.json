@@ -8,75 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "331b127108c03064",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ce935a42da5aded5",
+            "id": "b63ac5d58146bbd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "1. Promises & Callbacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d53f43caa490ba02",
+            "id": "5f444014e2d4735a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 01/3. Hoisting - Variables & Functions.md",
+                "file": "2. Mutation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb3351a7ca5fa585",
+            "id": "e94df384c3f7939c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 03/3. Temporal Dead Zone.md",
+                "file": "3. Higher Order Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "276eed81a5671cc9",
+            "id": "520f449a4c058e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "2. Mutation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf5829faccb6026e",
+            "id": "4dc3f5f3c26f9c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 03/5. Event Loop.md",
+                "file": "5. Errors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "1. Promises & Callbacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "1. Promises & Callbacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 03/1. Array Methods.md"
+                "file": "1. Promises & Callbacks.md"
               }
             }
           }
@@ -203,20 +194,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "204a799c307dfecb",
+  "active": "b63ac5d58146bbd3",
   "lastOpenFiles": [
-    "Day 03/4. Closure.md",
+    "Pasted image 20231012175114.png",
+    "2. Mutation.md",
+    "3. Higher Order Functions.md",
+    "5. Errors.md",
+    "4. Generator Functions.md",
+    "Day 02/2. Currying and Proxy.md",
+    "1. Promises & Callbacks.md",
+    "Day 04",
     "Day 03/5. Event Loop.md",
-    "Day 03/1. Array Methods.md",
     "Day 03/3. Temporal Dead Zone.md",
     "Day 01/3. Hoisting - Variables & Functions.md",
-    "Day 01/2. Var, Let & Const.md",
+    "Day 03/1. Array Methods.md",
+    "Day 03/4. Closure.md",
     "Day 03/2. Scope Chain And Lexical Scope.md",
+    "Day 01/2. Var, Let & Const.md",
     "Day 03",
     "Day 02/4. Type Coercion.md",
     "Day 02/5. Loops.md",
     "Day 02/6. Array and its methods.md",
-    "Day 02/2. Currying and Proxy.md",
     "Day 02/3. Data types.md",
     "Day 01/1. How JS Works Behind the Scenes.md",
     "Day 02/1. This.md",
