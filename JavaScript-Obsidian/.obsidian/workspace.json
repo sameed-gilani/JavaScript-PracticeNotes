@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "Day 04/1. Promises & Callbacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "Day 04/1. Promises & Callbacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 03/1. Array Methods.md",
+                "file": "Day 04/1. Promises & Callbacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 03/1. Array Methods.md"
+                "file": "Day 04/1. Promises & Callbacks.md"
               }
             }
           }
@@ -203,8 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "204a799c307dfecb",
+  "active": "276eed81a5671cc9",
   "lastOpenFiles": [
+    "Day 04/4. Generator Functions.md",
+    "Day 04/3. Higher Order Functions.md",
+    "Day 04/2. Mutation.md",
+    "Day 04/1. Promises & Callbacks.md",
+    "Day 04/5. Errors.md",
     "Day 03/4. Closure.md",
     "Day 03/5. Event Loop.md",
     "Day 03/1. Array Methods.md",
